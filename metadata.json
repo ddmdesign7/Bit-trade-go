@@ -1,0 +1,8 @@
+{
+  "name": "Google Antigravity Agent Studio",
+  "description": "Interactive web studio and execution sandbox for the Google Antigravity AI Agent SDK with multi-turn conversation, tool approval hooks, subagents, and observability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
